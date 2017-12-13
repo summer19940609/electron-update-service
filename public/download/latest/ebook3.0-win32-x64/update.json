@@ -1,0 +1,504 @@
+{
+	"name": "electron-demo",
+	"description": "更新？不存在的",
+	"version": "1.0.0",
+	"update_time": "2017-12-7",
+	"md5Obj": {
+		"/test.txt": {
+			"filePath": "/test.txt",
+			"md5": "cde242sdfsfsdfsddfsdfsd5738c1"
+		},
+		"/3.jpg": {
+			"filePath": "/3.jpg",
+			"md5": "cde2444849995555565656565738c1"
+		},
+		"/2.jpg": {
+			"filePath": "/2.jpg",
+			"md5": "cde2424d99db5622110056565738c1"
+		},
+		"/1.jpg": {
+			"filePath": "/1.jpg",
+			"md5": "cde2424d99db5632222265656565738c1"
+		},
+		"/api-ms-win-core-console-l1-1-0.dll": {
+			"filePath": "/api-ms-win-core-console-l1-1-0.dll",
+			"md5": "cde242sdfsdfsdfdd0d1eaf34811738c1"
+		},
+		"/api-ms-win-core-datetime-l1-1-0.dll": {
+			"filePath": "/api-ms-win-core-datetime-l1-1-0.dll",
+			"md5": "acf4sssssss99d621f8d9"
+		},
+		"/api-ms-win-core-debug-l1-1-0.dll": {
+			"filePath": "/api-ms-win-core-debug-l1-1-0.dll",
+			"md5": "3c4fffff000000a61"
+		},
+		"/api-ms-win-core-errorhandling-l1-1-0.dll": {
+			"filePath": "/api-ms-win-core-errorhandling-l1-1-0.dll",
+			"md5": "e05ce0sssssssssss98566bf"
+		},
+		"/api-ms-win-core-file-l1-1-0.dll": {
+			"filePath": "/api-ms-win-core-file-l1-1-0.dll",
+			"md5": "a26c7ffcf18b62904dab7786de638ea6"
+		},
+		"/api-ms-win-core-file-l1-2-0.dll": {
+			"filePath": "/api-ms-win-core-file-l1-2-0.dll",
+			"md5": "6a55a7e284b51b086b63cc6f2061ce8b"
+		},
+		"/api-ms-win-core-file-l2-1-0.dll": {
+			"filePath": "/api-ms-win-core-file-l2-1-0.dll",
+			"md5": "6e38a6bed88e1c27155e4dc428188ef0"
+		},
+		"/api-ms-win-core-handle-l1-1-0.dll": {
+			"filePath": "/api-ms-win-core-handle-l1-1-0.dll",
+			"md5": "9304209688e2a18d0b26997bc78fda7a"
+		},
+		"/api-ms-win-core-heap-l1-1-0.dll": {
+			"filePath": "/api-ms-win-core-heap-l1-1-0.dll",
+			"md5": "f42a84d78a5a15ff1a4dbac591e95783"
+		},
+		"/api-ms-win-core-interlocked-l1-1-0.dll": {
+			"filePath": "/api-ms-win-core-interlocked-l1-1-0.dll",
+			"md5": "9f286e57e5b1c1a347adf9eef059ad5d"
+		},
+		"/api-ms-win-core-libraryloader-l1-1-0.dll": {
+			"filePath": "/api-ms-win-core-libraryloader-l1-1-0.dll",
+			"md5": "beaae8294db31afa04fa60795c6e02ae"
+		},
+		"/api-ms-win-core-localization-l1-2-0.dll": {
+			"filePath": "/api-ms-win-core-localization-l1-2-0.dll",
+			"md5": "2ac1289e4dbab076b332869bef26d3ce"
+		},
+		"/api-ms-win-core-memory-l1-1-0.dll": {
+			"filePath": "/api-ms-win-core-memory-l1-1-0.dll",
+			"md5": "a2ddddddee968fd3805c"
+		},
+		"/api-ms-win-core-processenvironment-l1-1-0.dll": {
+			"filePath": "/api-ms-win-core-processenvironment-l1-1-0.dll",
+			"md5": "19d14d348acdddddde6"
+		},
+		"/api-ms-win-core-namedpipe-l1-1-0.dll": {
+			"filePath": "/api-ms-win-core-namedpipe-l1-1-0.dll",
+			"md5": "acbfc011d584ddddddd70"
+		},
+		"/api-ms-win-core-processthreads-l1-1-0.dll": {
+			"filePath": "/api-ms-win-core-processthreads-l1-1-0.dll",
+			"md5": "ea0e13feacsdsdsdf76e"
+		},
+		"/api-ms-win-core-processthreads-l1-1-1.dll": {
+			"filePath": "/api-ms-win-core-processthreads-l1-1-1.dll",
+			"md5": "1af2a91dc0asddfsdfsdfsdf3adf30"
+		},
+		"/api-ms-win-core-profile-l1-1-0.dll": {
+			"filePath": "/api-ms-win-core-profile-l1-1-0.dll",
+			"md5": "9b9d1949sdfsdfsdfsdfba7ff59"
+		},
+		"/api-ms-win-core-rtlsupport-l1-1-0.dll": {
+			"filePath": "/api-ms-win-core-rtlsupport-l1-1-0.dll",
+			"md5": "c6e268c877a9be5b43877308b1231120"
+		},
+		"/api-ms-win-core-string-l1-1-0.dll": {
+			"filePath": "/api-ms-win-core-string-l1-1-0.dll",
+			"md5": "5122b8aa14a25c8567d9d0335036446f"
+		},
+		"/api-ms-win-core-synch-l1-1-0.dll": {
+			"filePath": "/api-ms-win-core-synch-l1-1-0.dll",
+			"md5": "e1b30d56617709cf7dff5f464d7566d9"
+		},
+		"/api-ms-win-core-synch-l1-2-0.dll": {
+			"filePath": "/api-ms-win-core-synch-l1-2-0.dll",
+			"md5": "e4b64b2710725ec3332021bd8044d884"
+		},
+		"/api-ms-win-core-sysinfo-l1-1-0.dll": {
+			"filePath": "/api-ms-win-core-sysinfo-l1-1-0.dll",
+			"md5": "67fd470a60fe8fb3f9fbe32fa52871d0"
+		},
+		"/api-ms-win-core-timezone-l1-1-0.dll": {
+			"filePath": "/api-ms-win-core-timezone-l1-1-0.dll",
+			"md5": "f53ed8a0c18157b9e37500621dfab9ee"
+		},
+		"/api-ms-win-crt-conio-l1-1-0.dll": {
+			"filePath": "/api-ms-win-crt-conio-l1-1-0.dll",
+			"md5": "7d943f85ff8d1515a02d202ae79453d3"
+		},
+		"/api-ms-win-core-util-l1-1-0.dll": {
+			"filePath": "/api-ms-win-core-util-l1-1-0.dll",
+			"md5": "2b9f551cddd662c618432a75c546b296"
+		},
+		"/api-ms-win-crt-convert-l1-1-0.dll": {
+			"filePath": "/api-ms-win-crt-convert-l1-1-0.dll",
+			"md5": "278857b86f667c47cbcce94f5ec73ca8"
+		},
+		"/api-ms-win-crt-environment-l1-1-0.dll": {
+			"filePath": "/api-ms-win-crt-environment-l1-1-0.dll",
+			"md5": "6493b21fefae874655c62a56a156f3eb"
+		},
+		"/api-ms-win-crt-filesystem-l1-1-0.dll": {
+			"filePath": "/api-ms-win-crt-filesystem-l1-1-0.dll",
+			"md5": "ae83311041ee793253ff10736317a09e"
+		},
+		"/api-ms-win-crt-heap-l1-1-0.dll": {
+			"filePath": "/api-ms-win-crt-heap-l1-1-0.dll",
+			"md5": "12311308d7d65895b3920b3dd3e54b3b"
+		},
+		"/api-ms-win-crt-locale-l1-1-0.dll": {
+			"filePath": "/api-ms-win-crt-locale-l1-1-0.dll",
+			"md5": "3dafcf25a2ac1becf40acbec8fc7134b"
+		},
+		"/api-ms-win-crt-multibyte-l1-1-0.dll": {
+			"filePath": "/api-ms-win-crt-multibyte-l1-1-0.dll",
+			"md5": "56c02fabc2c64174009c905570c3a22d"
+		},
+		"/api-ms-win-crt-private-l1-1-0.dll": {
+			"filePath": "/api-ms-win-crt-private-l1-1-0.dll",
+			"md5": "4b27cf5cdb20aebf113df752019ffca3"
+		},
+		"/api-ms-win-crt-process-l1-1-0.dll": {
+			"filePath": "/api-ms-win-crt-process-l1-1-0.dll",
+			"md5": "fa677cfb18ba1370d8bb98681c48cfbd"
+		},
+		"/api-ms-win-crt-math-l1-1-0.dll": {
+			"filePath": "/api-ms-win-crt-math-l1-1-0.dll",
+			"md5": "f32bd567d35d2e85504c39dede609e72"
+		},
+		"/api-ms-win-crt-runtime-l1-1-0.dll": {
+			"filePath": "/api-ms-win-crt-runtime-l1-1-0.dll",
+			"md5": "595a997bd415c8ae0ef1e3c3b73e6091"
+		},
+		"/api-ms-win-crt-stdio-l1-1-0.dll": {
+			"filePath": "/api-ms-win-crt-stdio-l1-1-0.dll",
+			"md5": "415d765aa267382a79e56e428c80b1e1"
+		},
+		"/api-ms-win-crt-string-l1-1-0.dll": {
+			"filePath": "/api-ms-win-crt-string-l1-1-0.dll",
+			"md5": "5bd5a9001cb0555c5b2b14e0cbc8d922"
+		},
+		"/api-ms-win-crt-time-l1-1-0.dll": {
+			"filePath": "/api-ms-win-crt-time-l1-1-0.dll",
+			"md5": "f719ad4c04043f55a21e73805997b287"
+		},
+		"/api-ms-win-crt-utility-l1-1-0.dll": {
+			"filePath": "/api-ms-win-crt-utility-l1-1-0.dll",
+			"md5": "a405399d5b958a03e6054307a631553a"
+		},
+		"/blink_image_resources_200_percent.pak": {
+			"filePath": "/blink_image_resources_200_percent.pak",
+			"md5": "61cebc61b4d0f7e29564b340311e5478"
+		},
+		"/content_resources_200_percent.pak": {
+			"filePath": "/content_resources_200_percent.pak",
+			"md5": "7c321056f805aabd5a503821fa1994cd"
+		},
+		"/d3dcompiler_47.dll": {
+			"filePath": "/d3dcompiler_47.dll",
+			"md5": "b0ae3aa9dd1ebd60bdf51cb94834cd04"
+		},
+		"/content_shell.pak": {
+			"filePath": "/content_shell.pak",
+			"md5": "01f9ec2c8fc63c3cf5d3ee04a96ad9fb"
+		},
+		"/ffmpeg.dll": {
+			"filePath": "/ffmpeg.dll",
+			"md5": "ff14f994a570228f022680d5794e182f"
+		},
+		"/ebook3.0.exe": {
+			"filePath": "/ebook3.0.exe",
+			"md5": "e5e5802ee899460efd90bfd706827e50"
+		},
+		"/libEGL.dll": {
+			"filePath": "/libEGL.dll",
+			"md5": "e55db29ac60f24de7b9f992d9701dfe6"
+		},
+		"/icudtl.dat": {
+			"filePath": "/icudtl.dat",
+			"md5": "bc7f54e4df91c9137dced27976228b66"
+		},
+		"/LICENSES.chromium.html": {
+			"filePath": "/LICENSES.chromium.html",
+			"md5": "17205885fe0ef1d8f42fd9d7a8322644"
+		},
+		"/locales/am.pak": {
+			"filePath": "/locales/am.pak",
+			"md5": "f360d13c733ab7d21a73fd188e5dd955"
+		},
+		"/LICENSE": {
+			"filePath": "/LICENSE",
+			"md5": "e38fd54eff55663d66d73ee82c2d5e6e"
+		},
+		"/libGLESv2.dll": {
+			"filePath": "/libGLESv2.dll",
+			"md5": "bf8e477ee01da58a250e1092421f588e"
+		},
+		"/locales/bg.pak": {
+			"filePath": "/locales/bg.pak",
+			"md5": "02c789c99597675269cf71f7cfd8a8f0"
+		},
+		"/locales/ar.pak": {
+			"filePath": "/locales/ar.pak",
+			"md5": "880f46f8572ee79fb9fb17c6f39ba041"
+		},
+		"/locales/ca.pak": {
+			"filePath": "/locales/ca.pak",
+			"md5": "6a4feb6fc1e383f24869e3fe02bdce32"
+		},
+		"/locales/da.pak": {
+			"filePath": "/locales/da.pak",
+			"md5": "916edb54778e64ec4ae2bd1324eea130"
+		},
+		"/locales/cs.pak": {
+			"filePath": "/locales/cs.pak",
+			"md5": "9e4687dc389952a76ec2be931616b54a"
+		},
+		"/locales/de.pak": {
+			"filePath": "/locales/de.pak",
+			"md5": "dc9c002c3d793526fe9a24eb53e2ed98"
+		},
+		"/locales/el.pak": {
+			"filePath": "/locales/el.pak",
+			"md5": "bbc44ee80947b429eff2f56b7b1a8d26"
+		},
+		"/locales/en-GB.pak": {
+			"filePath": "/locales/en-GB.pak",
+			"md5": "f8f2e82c54a88f481ef981453b363159"
+		},
+		"/locales/bn.pak": {
+			"filePath": "/locales/bn.pak",
+			"md5": "fcb5ce5eb0468e451a5eb571070421b2"
+		},
+		"/locales/es-419.pak": {
+			"filePath": "/locales/es-419.pak",
+			"md5": "26b522020934ee0862aaa3d27027071b"
+		},
+		"/locales/es.pak": {
+			"filePath": "/locales/es.pak",
+			"md5": "9f2818f2401eae0978f4d58e29eb7b86"
+		},
+		"/locales/et.pak": {
+			"filePath": "/locales/et.pak",
+			"md5": "36d7d007d060c08472fb545a29131e38"
+		},
+		"/locales/fa.pak": {
+			"filePath": "/locales/fa.pak",
+			"md5": "40511d6c74cf2c6bf9c2c364f57bdf9b"
+		},
+		"/locales/fake-bidi.pak": {
+			"filePath": "/locales/fake-bidi.pak",
+			"md5": "c42a1e8203690d2519ef8d8e08ae1cac"
+		},
+		"/locales/fi.pak": {
+			"filePath": "/locales/fi.pak",
+			"md5": "3e05d15ef071c8f70175ed5ebc427e18"
+		},
+		"/locales/fil.pak": {
+			"filePath": "/locales/fil.pak",
+			"md5": "c618fd521e43c17926d77ca290387008"
+		},
+		"/locales/fr.pak": {
+			"filePath": "/locales/fr.pak",
+			"md5": "ad299c46cc0d82e760a2cfb5c6a22e9e"
+		},
+		"/locales/en-US.pak": {
+			"filePath": "/locales/en-US.pak",
+			"md5": "6ae08e7b5687da062c89c49ed4b9cebe"
+		},
+		"/locales/gu.pak": {
+			"filePath": "/locales/gu.pak",
+			"md5": "efcacb8f6ac1c52e2f05963a941c4a02"
+		},
+		"/locales/hi.pak": {
+			"filePath": "/locales/hi.pak",
+			"md5": "3a83ebcd3eeb85e3e2a2a898447b1503"
+		},
+		"/locales/hr.pak": {
+			"filePath": "/locales/hr.pak",
+			"md5": "52a365e9d2d24424a813d242249d8fd6"
+		},
+		"/locales/he.pak": {
+			"filePath": "/locales/he.pak",
+			"md5": "02935d54d6caeca4c6fbdd59ac72aaac"
+		},
+		"/locales/hu.pak": {
+			"filePath": "/locales/hu.pak",
+			"md5": "94f536a8c02dc10633049766fe13c7ab"
+		},
+		"/locales/id.pak": {
+			"filePath": "/locales/id.pak",
+			"md5": "88e532f83e45364412b65c5201e1f5c6"
+		},
+		"/locales/it.pak": {
+			"filePath": "/locales/it.pak",
+			"md5": "925f303d83d026efa7e4dcf279878050"
+		},
+		"/locales/ja.pak": {
+			"filePath": "/locales/ja.pak",
+			"md5": "f9f614a443cd2239b01e5265cfd43e96"
+		},
+		"/locales/kn.pak": {
+			"filePath": "/locales/kn.pak",
+			"md5": "0076b7cb72a3ba9e527a61f018d3904d"
+		},
+		"/locales/ko.pak": {
+			"filePath": "/locales/ko.pak",
+			"md5": "c55c0a4b5dca2c6395694c18948df86e"
+		},
+		"/locales/lt.pak": {
+			"filePath": "/locales/lt.pak",
+			"md5": "5d9534989518c0be7571edb0f3b3cab8"
+		},
+		"/locales/ml.pak": {
+			"filePath": "/locales/ml.pak",
+			"md5": "d31055547981f4658aed12fbbfc52c6d"
+		},
+		"/locales/lv.pak": {
+			"filePath": "/locales/lv.pak",
+			"md5": "0d27536b9bceaac7ec9789098943035e"
+		},
+		"/locales/mr.pak": {
+			"filePath": "/locales/mr.pak",
+			"md5": "3c6c1dc9569ce834eb414772590c1519"
+		},
+		"/locales/ms.pak": {
+			"filePath": "/locales/ms.pak",
+			"md5": "ccced5f2aa4e72b7c360b7c8baaadda0"
+		},
+		"/locales/nb.pak": {
+			"filePath": "/locales/nb.pak",
+			"md5": "29ff03eb9873d53afa958a301a447603"
+		},
+		"/locales/nl.pak": {
+			"filePath": "/locales/nl.pak",
+			"md5": "5285f9bf5559f09bf14ee5999dcf1790"
+		},
+		"/locales/pl.pak": {
+			"filePath": "/locales/pl.pak",
+			"md5": "8090d7e6b65ceb7664adfa85d2c859a3"
+		},
+		"/locales/pt-BR.pak": {
+			"filePath": "/locales/pt-BR.pak",
+			"md5": "bba719c0ca04ff2afcaae19035981afa"
+		},
+		"/locales/pt-PT.pak": {
+			"filePath": "/locales/pt-PT.pak",
+			"md5": "78ae769d7f76f0fec5b7001cf8b2a21e"
+		},
+		"/locales/ro.pak": {
+			"filePath": "/locales/ro.pak",
+			"md5": "f2f99f741451e7b329948e3722c931a8"
+		},
+		"/locales/ru.pak": {
+			"filePath": "/locales/ru.pak",
+			"md5": "babea478782e12d5f1a4c9cc666e94c7"
+		},
+		"/locales/sk.pak": {
+			"filePath": "/locales/sk.pak",
+			"md5": "c7b38391a79f2b17d95c6f52feb8209e"
+		},
+		"/locales/sl.pak": {
+			"filePath": "/locales/sl.pak",
+			"md5": "0878ce77de565c713ef078d9e1b58a59"
+		},
+		"/locales/sr.pak": {
+			"filePath": "/locales/sr.pak",
+			"md5": "76ff38c205c7eaa4f3b35be985d6082b"
+		},
+		"/locales/sv.pak": {
+			"filePath": "/locales/sv.pak",
+			"md5": "12b54f3a525ee94f7f877c585d4a8a31"
+		},
+		"/locales/sw.pak": {
+			"filePath": "/locales/sw.pak",
+			"md5": "801467cb172769470abda53b845aba87"
+		},
+		"/locales/ta.pak": {
+			"filePath": "/locales/ta.pak",
+			"md5": "ca192c97bfd65bf70ca518350f4f5b80"
+		},
+		"/locales/te.pak": {
+			"filePath": "/locales/te.pak",
+			"md5": "89d134ddaa7a97c6a6ee46a9fe22458b"
+		},
+		"/locales/th.pak": {
+			"filePath": "/locales/th.pak",
+			"md5": "5db5f301e6991263da37a5ebf66db2c2"
+		},
+		"/locales/tr.pak": {
+			"filePath": "/locales/tr.pak",
+			"md5": "25de0f84639b5a32f25991db2072d949"
+		},
+		"/locales/uk.pak": {
+			"filePath": "/locales/uk.pak",
+			"md5": "98ab82cb6722f39f6e536439ad0a5d92"
+		},
+		"/locales/vi.pak": {
+			"filePath": "/locales/vi.pak",
+			"md5": "5243ece8d428830b682200b6d4eef870"
+		},
+		"/locales/zh-CN.pak": {
+			"filePath": "/locales/zh-CN.pak",
+			"md5": "ddc1655b1644b6edd7e58977a10ae520"
+		},
+		"/locales/zh-TW.pak": {
+			"filePath": "/locales/zh-TW.pak",
+			"md5": "d1c3057098ac52b476acd38cae8fc712"
+		},
+		"/msvcp140.dll": {
+			"filePath": "/msvcp140.dll",
+			"md5": "9ff712c25312821b8aec84c4f8782a34"
+		},
+		"/natives_blob.bin": {
+			"filePath": "/natives_blob.bin",
+			"md5": "2f3295417175b37822bf3106b33fab6e"
+		},
+		"/node.dll": {
+			"filePath": "/node.dll",
+			"md5": "30198bf208b2e29cefdf6687d7f10b21"
+		},
+		"/pdf_viewer_resources.pak": {
+			"filePath": "/pdf_viewer_resources.pak",
+			"md5": "a03daa2328b5df6f58766d552363c90e"
+		},
+		"/resources/app/config.json": {
+			"filePath": "/resources/app/config.json",
+			"md5": "c10ccd2213b061beaa85d290667e6749"
+		},
+		"/resources/app.asar": {
+			"filePath": "/resources/app.asar",
+			"md5": "922b7afe76ad78aa6023a52d6e27c548"
+		},
+		"/resources/app/html/doc.html": {
+			"filePath": "/resources/app/html/doc.html",
+			"md5": "798d54358a2e4ec0a714b8b7d51439f2"
+		},
+		"/resources/app/userData/user.db": {
+			"filePath": "/resources/app/userData/user.db",
+			"md5": "075ed1ddb9a7cb14ff7c33f66099ed00"
+		},
+		"/snapshot_blob.bin": {
+			"filePath": "/snapshot_blob.bin",
+			"md5": "012b4399fa8ecf0f5159d4ae5e334458"
+		},
+		"/ucrtbase.dll": {
+			"filePath": "/ucrtbase.dll",
+			"md5": "ed82e9c6c4f7a475d7fd6ebabf3fab2a"
+		},
+		"/ui_resources_200_percent.pak": {
+			"filePath": "/ui_resources_200_percent.pak",
+			"md5": "70af21add33c9a470b304c82534513d2"
+		},
+		"/vcruntime140.dll": {
+			"filePath": "/vcruntime140.dll",
+			"md5": "edf9d5c18111d82cf10ec99f6afa6b47"
+		},
+		"/version": {
+			"filePath": "/version",
+			"md5": "220f6d9139a62fe154926b0e5a5bc1ca"
+		},
+		"/views_resources_200_percent.pak": {
+			"filePath": "/views_resources_200_percent.pak",
+			"md5": "926edb7e8d6d3d4a5d4e6a89d3581f7b"
+		},
+		"/resources/electron.asar": {
+			"filePath": "/resources/electron.asar",
+			"md5": "f6b9dce0462b8f16aca4a38c6014463f"
+		}
+	}
+}
