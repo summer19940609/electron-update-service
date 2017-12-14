@@ -34,27 +34,27 @@
 		},
 		"/api-ms-win-core-errorhandling-l1-1-0.dll": {
 			"filePath": "/api-ms-win-core-errorhandling-l1-1-0.dll",
-			"md5": "e05ce0sssssssssss98566bf"
+			"md5": "e05ssssssssss98566bf"
 		},
 		"/api-ms-win-core-file-l1-1-0.dll": {
 			"filePath": "/api-ms-win-core-file-l1-1-0.dll",
-			"md5": "a26c7ffcf18b62904dab7786de638ea6"
+			"md5": "a267786de638ea6"
 		},
 		"/api-ms-win-core-file-l1-2-0.dll": {
 			"filePath": "/api-ms-win-core-file-l1-2-0.dll",
-			"md5": "6a55a7e284b51b086b63cc6f2061ce8b"
+			"md5": "6a56f2061ce8b"
 		},
 		"/api-ms-win-core-file-l2-1-0.dll": {
 			"filePath": "/api-ms-win-core-file-l2-1-0.dll",
-			"md5": "6e38a6bed88e1c27155e4dc428188ef0"
+			"md5": "6e38a6bed88188ef0"
 		},
 		"/api-ms-win-core-handle-l1-1-0.dll": {
 			"filePath": "/api-ms-win-core-handle-l1-1-0.dll",
-			"md5": "9304209688e2a18d0b26997bc78fda7a"
+			"md5": "9304209688e2aa7a"
 		},
 		"/api-ms-win-core-heap-l1-1-0.dll": {
 			"filePath": "/api-ms-win-core-heap-l1-1-0.dll",
-			"md5": "f42a84d78a5a15ff1a4dbac591e95783"
+			"md5": "f42a84d78a5a15ff1a783"
 		},
 		"/api-ms-win-core-interlocked-l1-1-0.dll": {
 			"filePath": "/api-ms-win-core-interlocked-l1-1-0.dll",
@@ -62,19 +62,19 @@
 		},
 		"/api-ms-win-core-libraryloader-l1-1-0.dll": {
 			"filePath": "/api-ms-win-core-libraryloader-l1-1-0.dll",
-			"md5": "beaae8294db31afa04fa60795c6e02ae"
+			"md5": "beb31afa04fa60795c6e02ae"
 		},
 		"/api-ms-win-core-localization-l1-2-0.dll": {
 			"filePath": "/api-ms-win-core-localization-l1-2-0.dll",
-			"md5": "2ac1289e4dbab076b332869bef26d3ce"
+			"md5": "2abef26d3ce"
 		},
 		"/api-ms-win-core-memory-l1-1-0.dll": {
 			"filePath": "/api-ms-win-core-memory-l1-1-0.dll",
-			"md5": "a2ddddddee968fd3805c"
+			"md5": "a2ddddddee9d3805c"
 		},
 		"/api-ms-win-core-processenvironment-l1-1-0.dll": {
 			"filePath": "/api-ms-win-core-processenvironment-l1-1-0.dll",
-			"md5": "19d14d348acdddddde6"
+			"md5": "19d14d348acdde6"
 		},
 		"/api-ms-win-core-namedpipe-l1-1-0.dll": {
 			"filePath": "/api-ms-win-core-namedpipe-l1-1-0.dll",
@@ -82,7 +82,7 @@
 		},
 		"/api-ms-win-core-processthreads-l1-1-0.dll": {
 			"filePath": "/api-ms-win-core-processthreads-l1-1-0.dll",
-			"md5": "ea0e13feacsdsdsdf76e"
+			"md5": "ea0e13feasdsdf76e"
 		},
 		"/api-ms-win-core-processthreads-l1-1-1.dll": {
 			"filePath": "/api-ms-win-core-processthreads-l1-1-1.dll",
@@ -90,7 +90,7 @@
 		},
 		"/api-ms-win-core-profile-l1-1-0.dll": {
 			"filePath": "/api-ms-win-core-profile-l1-1-0.dll",
-			"md5": "9b9d1949sdfsdfsdfsdfba7ff59"
+			"md5": "9b9d1949sddfsdfba7ff59"
 		},
 		"/api-ms-win-core-rtlsupport-l1-1-0.dll": {
 			"filePath": "/api-ms-win-core-rtlsupport-l1-1-0.dll",
@@ -98,7 +98,7 @@
 		},
 		"/api-ms-win-core-string-l1-1-0.dll": {
 			"filePath": "/api-ms-win-core-string-l1-1-0.dll",
-			"md5": "5122b8aa14a25c8567d9d0335036446f"
+			"md5": "5122b8aa14a9d0335036446f"
 		},
 		"/api-ms-win-core-synch-l1-1-0.dll": {
 			"filePath": "/api-ms-win-core-synch-l1-1-0.dll",
@@ -110,11 +110,11 @@
 		},
 		"/api-ms-win-core-sysinfo-l1-1-0.dll": {
 			"filePath": "/api-ms-win-core-sysinfo-l1-1-0.dll",
-			"md5": "67fd470a60fe8fb3f9fbe32fa52871d0"
+			"md5": "67fd47fa52871d0"
 		},
 		"/api-ms-win-core-timezone-l1-1-0.dll": {
 			"filePath": "/api-ms-win-core-timezone-l1-1-0.dll",
-			"md5": "f53ed8a0c18157b9e37500621dfab9ee"
+			"md5": "f53ed8a0c1821dfab9ee"
 		},
 		"/api-ms-win-crt-conio-l1-1-0.dll": {
 			"filePath": "/api-ms-win-crt-conio-l1-1-0.dll",
