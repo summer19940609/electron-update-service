@@ -4,7 +4,7 @@ const fs = require('fs')
 const fse = require('fs-extra')
 const path = require('path')
 const serverUpdatePath = path.join(__dirname, '../public/download/latest/ebook3.0-win32-x64/update.json')
-const config = require(process.cwd() + '/config')
+const config = require(path.join(__dirname, '../config'))
 
 const serverUrl = config.serverUrl
 
